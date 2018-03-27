@@ -29,7 +29,7 @@ react-native start
 ```
 ##### Alternatively, you can run the react-native app using XCode
 ```
-open /Users/jasonlee/fireToDoApp/ios/fireToDoApp.xcodeproj
+open /path/to/the/fireToDoApp/ios/fireToDoApp.xcodeproj
 click the run button in XCode and everything should be automatically running for you
 ```
 
