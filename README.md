@@ -12,6 +12,10 @@ I followed this [tutorial from the firebase blog](https://firebase.googleblog.co
 to account for import statements and spelling errors they made in the blog, causing the app to break at weird instances. If anyone was trying to follow that blog
 but couldn't get through it, this repo is for you...
 
+Usage: 
+![Alt text](wlee367/fireToDoApp/blob/master/usage.gif?raw=true "Title")
+
+
 Future Goals (Hopefully implemented very soon)
 
 1. Render an automatic 'task id' such that a number is placed in front of each task in the app
