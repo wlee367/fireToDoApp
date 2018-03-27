@@ -17,3 +17,19 @@ Future Goals (Hopefully implemented very soon)
 1. Render an automatic 'task id' such that a number is placed in front of each task in the app
 2. Give the user a choice of letters or numbers in regards to goal #1.
 3. Simple User Authentication using Firebase
+
+##### To run the ios-application using Terminal (2 different terminals preferred)
+```
+react-native run-ios 
+react-native start 
+```
+##### Alternatively, you can run the react-native app using XCode
+```
+open /Users/jasonlee/fireToDoApp/ios/fireToDoApp.xcodeproj
+click the run button in XCode and everything should be automatically running for you
+```
+
+##### Requirements for running this project
+1. React Native 0.54
+2. XCode V 9.1 
+3. Simulator V 10.0
