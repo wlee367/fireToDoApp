@@ -13,7 +13,7 @@ to account for import statements and spelling errors they made in the blog, caus
 but couldn't get through it, this repo is for you...
 
 Usage: 
-![Alt text](wlee367/fireToDoApp/blob/master/usage.gif?raw=true "Title")
+![Usage](fireToDoApp/usage.gif?raw=true "Title")
 
 
 Future Goals (Hopefully implemented very soon)
